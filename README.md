@@ -5,4 +5,5 @@ ID : CT06DG2251
 DOMAIN : Embedded Systems 
 DURATION : 4 WEEKS
 MENTOR : Neela Santhosh Kumar
-
+OUTPUT:
+https://github.com/PhaneendraKumarYanapu/PUSH-BUTTON-COUNTER/blob/main/output.jpg?raw=true
