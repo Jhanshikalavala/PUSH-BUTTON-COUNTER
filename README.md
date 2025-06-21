@@ -6,6 +6,10 @@ DOMAIN : Embedded Systems
 DURATION : 4 WEEKS
 MENTOR : Neela Santhosh Kumar
 
+CONNECTIONS:
+
+![Image](https://github.com/user-attachments/assets/092f8af5-2776-4cfe-949d-67fce39b3704)
+
 OUTPUT:
 
 
